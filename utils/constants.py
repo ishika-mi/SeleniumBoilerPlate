@@ -1,0 +1,1 @@
+LOGS_FORMATTER = "%(levelname)s — %(asctime)s — %(name)s — Function:%(funcName)s — Line:%(lineno)d — %(message)s"
